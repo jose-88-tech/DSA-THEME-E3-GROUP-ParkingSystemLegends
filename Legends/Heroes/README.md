@@ -1,5 +1,6 @@
 Heroes — Parking Dashboard (HTML/CSS/JS)
-
+GroupAlpha it contains the backend of the system and the database architecture that runs the system, our group further was devided into 2 and 3, the 2 members worked on Heroes which is the first dashboard while 
+3 members worked on GroupAlpha which they worked on the database and backend on VS Code. 
 This project is a plain HTML/CSS/JavaScript replica of the LEGENDS app. It demonstrates a simple in-memory "backend" using a PriorityQueue (for optimal slot assignment) and a HashMap (for O(1) lookups).
 
 How to run
