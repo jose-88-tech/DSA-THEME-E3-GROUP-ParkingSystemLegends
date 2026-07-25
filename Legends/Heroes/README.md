@@ -15,3 +15,9 @@ Features
 Notes
 - Data is kept in-memory in the browser.
 - PriorityQueue uses smallest-slot-first allocation; adapt policy in `js/app.js`.
+  GROUP MEMBERS
+   1 Andrew leyiapas  -BIT/2024/74067
+   2. Hudson Kipchirchir - BIT/2024/73961
+   3. Joseph Ahadi - BIT/2024/54480
+   4. Lemaiyan Kipai - BIT/2024/74057
+   5. Celestine Gitau - BIT/2024/54146
